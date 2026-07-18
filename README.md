@@ -1,13 +1,38 @@
-<h1 align="center"> Hey, I'm Aditi 👋</h1>
+<div align="center">
 
-<p align="center">
-Curious learner • Computer Science Student
-</p>
+# Hey, I'm Aditi 👋
+
+### Computer Science Student
+
+*Learning by building.*
 
 ---
 
-I enjoy solving problems, building projects, and documenting what I learn along the way.
+*"Curiosity is where every project begins."*
 
-This GitHub is where I share my projects and track my progress as I continue exploring computer science, programming, and artificial intelligence.
+</div>
 
-Thanks for stopping by! 🌱
+<br>
+
+## 🌱 About
+
+I'm currently exploring programming, problem solving, and computer science fundamentals.
+
+This GitHub is where I share the projects I build while learning.
+
+<br>
+
+## ☕ Outside of Code
+
+- 🎨 Painting
+- 📚 Learning German
+- 🤎 Brown aesthetic enthusiast
+- 🎵 Music while debugging
+
+<br>
+
+<div align="center">
+
+Thanks for stopping by! 🌿
+
+</div>
