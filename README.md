@@ -26,7 +26,7 @@ This GitHub is where I share the projects I build while learning.
 
 - 🎨 Painting
 - 📚 Learning German
-- 🤎 Brown aesthetic enthusiast
+- 🌌 Exploring astronomy and the universe
 - 🎵 Music while debugging
 
 <br>
