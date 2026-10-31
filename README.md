@@ -5,7 +5,7 @@
 
 <!-- Typing SVG Title with Warm Violet Accent -->
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=25&duration=4000&pause=500&color=C084FC&width=550&lines=Hello%2C+it's+Aditi+Dubey+%F0%9F%91%8B;First-Year+CS+Undergraduate;Aspiring+AI+%26+LLM+Engineer" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=25&duration=4000&pause=500&color=C084FC&width=550&lines=Hello%2C+it's+Aditi+Dubey+%F0%9F%91%8B;First-Year+CS+Undergraduate;Aspiring+AI+%26+Data+Science+Engineer" alt="Typing SVG"/>
 </a>
 
 </div>
@@ -13,10 +13,13 @@
 ---
 
 ### 💻 Main Skills & Tools
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,git,github,vscode,markdown,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,linux,cpp,git,github,vscode,markdown)](https://skillicons.dev)
 
 ### 🌱 Currently Exploring & Studying
-[![Learning](https://skillicons.dev/icons?i=js,react,nodejs,linux,bash,ai)](https://skillicons.dev)
+* **Data Structures & Algorithms:** Logic building and core computer science fundamentals.
+* **Computer Organization & Architecture:** Understanding lower-level computing, memory, and hardware systems.
+* **Database Management:** Designing structured SQL databases and writing queries in MySQL.
+* **Linux Environment:** Command-line navigation, file systems, and bash scripting.
 
 ---
 
@@ -30,8 +33,8 @@ When I'm not writing Python or diving into computer science theory, you can find
 
 ### 🚀 What I'm Focused On Right Now
 * 🐍 Mastering **CS50’s Introduction to Programming with Python (CS50P)** and building practical command-line tools.
-* 📊 Diving deep into data structures, algorithms, and logic building.
-* 🤖 Expanding my knowledge toward **AI and LLM Performance Engineering**.
+* 📊 Working through First-Year Computer Science coursework in Data Structures & Computer Architecture.
+* 🤖 Expanding my background in Python and databases toward **AI & Data Science**.
 
 ---
 
@@ -52,7 +55,7 @@ When I'm not writing Python or diving into computer science theory, you can find
 
 ### 🌟 Career & Projects
 > [!NOTE]
-> **First-Year CS Student Portfolio:** Check out my pinned repositories below for my latest Python projects like my Spaced-Repetition Flashcards tool and pricing checkers!
+> **First-Year CS Student Portfolio:** Check out my pinned repositories below for my latest Python projects like my Spaced-Repetition Flashcards tool!
 
 <div align="center">
 
