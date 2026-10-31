@@ -1,4 +1,4 @@
-<h2 align="center"> Hi, I'm Aditi! </h2>
+<h2 align="center"> Hi, I'm Aditi! ˙ᵕ˙ </h2>
 
 ☆ First-year Computer Science undergraduate<br>
 ☆ Aspiring AI & LLM Performance engineer<br>
