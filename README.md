@@ -28,7 +28,7 @@
 - **Music:** a steady, atmospheric soundtrack for every coding and study session
 - **Stargazing & Space:** astronomy, planetary systems, and the mysteries of the universe
 
-### 🌷 Connect With Me
+### ⚝ Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=70a5fd)](https://www.linkedin.com/in/aditiquasar/)
 [![GitHub](https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=bf91f3)](https://github.com/aditiquasar)
