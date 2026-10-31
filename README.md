@@ -1,46 +1,64 @@
 <div align="center">
 
-# Hi, I'm Aditi! 👋✨
-### First-Year Computer Science Undergraduate | Aspiring AI & LLM Performance Engineer
+<!-- Animated Header Banner with Deep Indigo/Cyan Vibe -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,30&height=130&section=header" alt="header"/>
 
-<img src="https://komarev.com/ghpvc/?username=aditiquasar&color=9400D3&style=for-the-badge" alt="Profile Views" />
+<!-- Typing SVG Title -->
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=26&duration=4000&pause=500&color=38BDF8&width=500&lines=Hello%2C+it's+Aditi+Dubey+%F0%9F%91%8B;First-Year+CS+Undergraduate;Aspiring+AI+%26+LLM+Engineer" alt="Typing SVG"/>
+</a>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aditiquasar&color=0ea5e9&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+</p>
 
 </div>
 
 ---
 
-### ⚡ Quick About Me
-* 🏛️ **Studying:** B.Sc. Computer Science 
-* 🔭 **Interests:** Artificial Intelligence, LLMs, algorithms, and the architecture of code.
-* 🎧 **Vibe:** Coding with a solid playlist, sketching complex canvases, or looking up at the stars.
+### 💻 Main Skills & Tools
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,git,github,vscode,markdown,html,css)](https://skillicons.dev)
+
+### 🌱 Currently Exploring & Studying
+[![Learning](https://skillicons.dev/icons?i=js,react,nodejs,linux,bash,ai)](https://skillicons.dev)
 
 ---
 
-### 💻 Tech & Tools
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | `Python`, `C++`, `SQL` |
-| **Development** | `VS Code`, `GitHub Codespaces`, `Git` |
-| **Productivity** | `Google Workspace`, `Snapseed`, `Markdown` |
+### 🎨 Beyond the Code
+When I'm not writing Python or diving into computer science theory, you can find me exploring my creative and curious side:
+* **🎨 Painting & Sketching:** Capturing intricate details, color palettes, and traditional art (like sketching Shree Krishna).
+* **🎧 Listening to Music:** Keeping a steady, atmospheric soundtrack running through every coding and study session.
+* **🪐 Stargazing & Space:** Reading up on astronomy, planetary systems, and the mysteries of the universe (hence the *quasar* spirit!).
 
 ---
 
-### 🚀 What I'm Doing Right Now
-* 🐍 Wrapping up **CS50’s Introduction to Programming with Python (CS50P)** and building practical CLI apps.
-* 📊 Building data structures journals and exploring database management systems.
-* 🪐 Tracking space discoveries and expanding my knowledge of astronomy.
+### 🚀 What I'm Focused On Right Now
+* 🐍 Mastering **CS50’s Introduction to Programming with Python (CS50P)** and building practical command-line tools.
+* 📊 Diving deep into data structures, algorithms, and logic building.
+* 🤖 Expanding my knowledge toward **AI and LLM Performance Engineering**.
 
 ---
 
-### 🎨 Beyond the Screen
-When the IDE is closed, you'll find me:
-* **Painting & Sketching:** Capturing intricate details and color palettes (especially traditional art like Shree Krishna).
-* **Lost in Music:** Finding the right rhythm for deep focus and late-night coding sessions.
-* **Stargazing:** Fascinated by planets, stars, and deep space cosmos.
+### 📫 Connect With Me
+<div>
+    <a href="https://www.linkedin.com/in/aditiquasar/">
+        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+    </a>
+    <a href="https://github.com/aditiquasar">
+        <img src="https://github.com/user-attachments/assets/172bc424-569a-4522-a787-97f4cd5a685d" alt="GitHub" width="37" height="37"/>
+    </a>
+    <a href="mailto:work.aditi.s.dubey@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+</div>
 
 ---
 
-<div align="center">
-  <i>"Simplicity is prerequisite for reliability."</i> ✨
+### 🌟 Career & Projects
+> [!NOTE]
+> **First-Year CS Student Portfolio:** Check out my pinned repositories below for my latest Python projects like my Spaced-Repetition Flashcards tool and pricing checkers!
+
+<!-- Waving Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,20,12,6&height=120&section=footer" alt="footer"/>
+
 </div>
