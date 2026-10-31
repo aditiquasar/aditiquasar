@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Solid Space Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0b0f19&height=180&section=header&text=Aditi%20Dubey%20%F0%9F%AA%90&fontSize=34&fontColor=38bdf8" alt="Header Banner" />
+<!-- Cosmic Wave Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,35&height=180&section=header&text=Aditi%20Dubey%20%F0%9F%AA%90&fontSize=34&fontColor=38bdf8" alt="Header Banner" />
 
 <br />
 
-<!-- Centered Typing SVG Title (Fixed Width so text doesn't truncate) -->
+<!-- Centered Typing SVG Title -->
 <p align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=4000&pause=500&color=A78BFA&center=true&vCenter=true&width=650&height=50&lines=First-Year+CS+Undergraduate+%F0%9F%9B%B0%EF%B8%8F;Aspiring+AI+%26+Data+Science+Engineer;Exploring+the+Code+Cosmos+%E2%9C%A8" alt="Typing SVG" align="center" />
@@ -61,11 +61,11 @@ When I'm not writing Python or diving into computer science theory, you can find
 
 ### 🌟 Career & Projects
 > [!NOTE]
-> **First-Year CS Student Portfolio:** Check out my pinned repositories below for my latest Python projects like my Spaced-Repetition Flashcards CLI tool!
+> **First-Year CS Student Portfolio:** Check out my pinned repositories below for my latest Python projects!
 
 <div align="center">
 
-<!-- Deep Space Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0b0f19&height=100&section=footer" alt="Footer Banner" />
+<!-- Cosmic Wave Footer Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=35,24,12&height=100&section=footer" alt="Footer Banner" />
 
 </div>
