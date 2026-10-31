@@ -3,9 +3,11 @@
 <!-- Animated Waving Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9333EA&height=120&section=header" alt="header"/>
 
-<!-- Typing SVG Title with Warm Violet Accent -->
+<br />
+
+<!-- Centered Typing SVG Container -->
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=25&duration=4000&pause=500&color=C084FC&width=550&lines=Hello%2C+it's+Aditi+Dubey+%F0%9F%91%8B;First-Year+CS+Undergraduate;Aspiring+AI+%26+Data+Science+Engineer" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=25&duration=4000&pause=500&color=C084FC&center=true&vCenter=true&width=500&height=50&lines=Hello%2C+it's+Aditi+Dubey+%F0%9F%91%8B;First-Year+CS+Undergraduate;Aspiring+AI+%26+Data+Science+Engineer" alt="Typing SVG" align="center" />
 </a>
 
 </div>
