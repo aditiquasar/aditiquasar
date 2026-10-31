@@ -6,4 +6,4 @@
 🎨 Into painting, sketching, music, stargazing and astronomy<br>
 📫 Find me on [LinkedIn](https://www.linkedin.com/in/aditiquasar/) or [email](mailto:work.aditi.s.dubey@gmail.com)
 
-![Aditi Dubey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditiquasar&show_icons=true&theme=radical)
+![Aditi's GitHub Streak](https://streak-stats.demolab.com/?user=aditiquasar&theme=radical)
