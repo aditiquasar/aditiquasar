@@ -1,40 +1,46 @@
-# Hi there, I'm Aditi! 👋
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=blueviolet&style=flat-square" alt="Profile Views" />
+# Hi, I'm Aditi! 👋✨
+### First-Year Computer Science Undergraduate | Aspiring AI & LLM Performance Engineer
 
-I'm a First-Year **Computer Science undergraduate** passionate about coding, problem-solving, and building practical applications. I love working with Python and exploring how software can solve everyday challenges.
+<img src="https://komarev.com/ghpvc/?username=aditiquasar&color=9400D3&style=for-the-badge" alt="Profile Views" />
 
----
-
-### 💻 Tech Stack & Tools
-* **Languages:** Python, C++
-* **Development:** VS Code, GitHub Codespaces, Git
-* **Productivity & Design:** Google Workspace, Snapseed, Markdown
+</div>
 
 ---
 
-### 🌱 Current Focus
-* 🚀 Completing **CS50’s Introduction to Programming with Python (CS50P)**
-* 📚 Building data structures, algorithms, and project-based software tools
-* 🎯 Working towards a future career in **AI & LLM Performance Engineering**
+### ⚡ Quick About Me
+* 🏛️ **Studying:** B.Sc. Computer Science @ JVM Mehta College, Navi Mumbai.
+* 🔭 **Interests:** Artificial Intelligence, LLMs, algorithms, and the architecture of code.
+* 🎧 **Vibe:** Coding with a solid playlist, sketching complex canvases, or looking up at the stars.
 
 ---
 
-### 📊 GitHub Stats
+### 💻 Tech & Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditiquasar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiquasar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `Python`, `C++`, `SQL` |
+| **Development** | `VS Code`, `GitHub Codespaces`, `Git` |
+| **Productivity** | `Google Workspace`, `Snapseed`, `Markdown` |
 
 ---
 
-### 🎨 Beyond the Code
-When I'm not writing Python or studying computer science, you can usually find me:
-* **Painting & Sketching:** Exploring intricate canvas works, color palettes, and artistic expression (like drawing Shree Krishna).
-* **Listening to Music:** Keeping a steady soundtrack running while I code or study.
-* **Stargazing & Space:** Reading up on astronomy, stars, planets, and the mysteries of the universe.
+### 🚀 What I'm Doing Right Now
+* 🐍 Wrapping up **CS50’s Introduction to Programming with Python (CS50P)** and building practical CLI apps.
+* 📊 Building data structures journals and exploring database management systems.
+* 🪐 Tracking space discoveries and expanding my knowledge of astronomy.
 
-> *"Simplicity is prerequisite for reliability."* ✨
+---
+
+### 🎨 Beyond the Screen
+When the IDE is closed, you'll find me:
+* **Painting & Sketching:** Capturing intricate details and color palettes (especially traditional art like Shree Krishna).
+* **Lost in Music:** Finding the right rhythm for deep focus and late-night coding sessions.
+* **Stargazing:** Fascinated by planets, stars, and deep space cosmos.
+
+---
+
+<div align="center">
+  <i>"Simplicity is prerequisite for reliability."</i> ✨
+</div>
