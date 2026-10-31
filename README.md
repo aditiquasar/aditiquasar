@@ -61,8 +61,7 @@ When I'm not writing Python or diving into computer science theory, you can find
 
 ### 🌟 Career & Projects
 > [!NOTE]
-> **First-Year CS Student Portfolio:** Check out my pinned repositories below for my latest Python projects like my Spaced-Repetition Flashcards CLI tool!
-
+> **First-Year CS Student Portfolio:** Check out my pinned repositories below for my latest Python projects.
 <div align="center">
 
 <!-- Deep Space Footer -->
