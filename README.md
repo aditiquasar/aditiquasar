@@ -10,7 +10,7 @@
 ---
 
 ### ⚡ Quick About Me
-* 🏛️ **Studying:** B.Sc. Computer Science @ JVM Mehta College, Navi Mumbai.
+* 🏛️ **Studying:** B.Sc. Computer Science 
 * 🔭 **Interests:** Artificial Intelligence, LLMs, algorithms, and the architecture of code.
 * 🎧 **Vibe:** Coding with a solid playlist, sketching complex canvases, or looking up at the stars.
 
