@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- Animated Waving Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9333EA&height=120&section=header" alt="header"/>
+<!-- Deep Space Galaxy Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B0F19&height=140&section=header&text=Aditi%20Dubey%20%F0%9F%AA%90&fontSize=32&fontColor=38BDF8&animation=twinkle" alt="Space Header"/>
 
 <br />
 
-<!-- Centered Typing SVG Container -->
+<!-- Centered Cosmic Typing SVG Title -->
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=25&duration=4000&pause=500&color=C084FC&center=true&vCenter=true&width=500&height=50&lines=Hello%2C+it's+Aditi+Dubey+%F0%9F%91%8B;First-Year+CS+Undergraduate;Aspiring+AI+%26+Data+Science+Engineer" alt="Typing SVG" align="center" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=4000&pause=500&color=A78BFA&center=true&vCenter=true&width=550&height=50&lines=First-Year+CS+Undergraduate+%F0%9F%9B%B0%EF%B8%8F;Aspiring+AI+%26+Data+Science+Engineer;Exploring+the+Code+Cosmos+%E2%9C%A8" alt="Typing SVG" align="center" />
 </a>
 
 </div>
@@ -15,41 +15,43 @@
 ---
 
 ### 💻 Main Skills & Tools
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,linux,cpp,git,github,vscode,markdown)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,linux,cpp,git,github,vscode,markdown&theme=dark)](https://skillicons.dev)
+
+---
 
 ### 🌱 Currently Exploring & Studying
-* **Data Structures & Algorithms:** Logic building and core computer science fundamentals.
-* **Computer Organization & Architecture:** Understanding lower-level computing, memory, and hardware systems.
-* **Database Management:** Designing structured SQL databases and writing queries in MySQL.
-* **Linux Environment:** Command-line navigation, file systems, and bash scripting.
+* 🪐 **Data Structures & Algorithms:** Logic building and core computer science fundamentals.
+* 🌌 **Computer Organization & Architecture:** Lower-level computing, memory systems, and hardware logic.
+* 🛰️ **Database Management:** Designing structured SQL databases and writing queries in MySQL.
+* 🛸 **Linux Environment:** Command-line navigation, file systems, and bash scripting.
 
 ---
 
 ### 🎨 Beyond the Code
 When I'm not writing Python or diving into computer science theory, you can find me exploring my creative and curious side:
-* **🎨 Painting & Sketching:** Capturing intricate details, color palettes, and traditional art (like sketching Shree Krishna).
-* **🎧 Listening to Music:** Keeping a steady, atmospheric soundtrack running through every coding and study session.
-* **🪐 Stargazing & Space:** Reading up on astronomy, planetary systems, and the mysteries of the universe (hence the *quasar* spirit!).
+* 🎨 **Painting & Sketching:** Capturing intricate details, color palettes, and traditional art (like sketching Shree Krishna).
+* 🎧 **Listening to Music:** Keeping a steady, atmospheric soundtrack running through every coding and study session.
+* 🪐 **Stargazing & Astronomy:** Reading up on space, stars, planets, and the mysteries of the universe (hence the *quasar* spirit!).
 
 ---
 
-### 🚀 What I'm Focused On Right Now
-* 🐍 Mastering **CS50’s Introduction to Programming with Python (CS50P)** and building practical command-line tools.
+### 🚀 Mission Control & Focus
+* 🐍 Mastering **CS50’s Introduction to Programming with Python (CS50P)** and building practical CLI tools.
 * 📊 Working through First-Year Computer Science coursework in Data Structures & Computer Architecture.
 * 🤖 Expanding my background in Python and databases toward **AI & Data Science**.
 
 ---
 
-### 📫 Connect With Me
+### 🛰️ Connect With Me
 <div>
     <a href="https://www.linkedin.com/in/aditiquasar/">
-        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://github.com/aditiquasar">
-        <img src="https://github.com/user-attachments/assets/172bc424-569a-4522-a787-97f4cd5a685d" alt="GitHub" width="37" height="37"/>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
     <a href="mailto:work.aditi.s.dubey@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
 </div>
 
@@ -57,11 +59,11 @@ When I'm not writing Python or diving into computer science theory, you can find
 
 ### 🌟 Career & Projects
 > [!NOTE]
-> **First-Year CS Student Portfolio:** Check out my pinned repositories below for my latest Python projects like my Spaced-Repetition Flashcards tool!
+> **First-Year CS Student Portfolio:** Check out my pinned repositories below for my latest Python projects like my Spaced-Repetition Flashcards CLI tool!
 
 <div align="center">
 
-<!-- Waving Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9333EA&height=120&section=footer" alt="footer"/>
+<!-- Deep Space Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B0F19&height=60&section=footer" alt="Space Footer"/>
 
 </div>
