@@ -1,16 +1,12 @@
 <div align="center">
 
-<!-- Animated Header Banner with Deep Indigo/Cyan Vibe -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,30&height=130&section=header" alt="header"/>
+<!-- Animated Waving Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9333EA&height=120&section=header" alt="header"/>
 
-<!-- Typing SVG Title -->
+<!-- Typing SVG Title with Warm Violet Accent -->
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=26&duration=4000&pause=500&color=38BDF8&width=500&lines=Hello%2C+it's+Aditi+Dubey+%F0%9F%91%8B;First-Year+CS+Undergraduate;Aspiring+AI+%26+LLM+Engineer" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=25&duration=4000&pause=500&color=C084FC&width=550&lines=Hello%2C+it's+Aditi+Dubey+%F0%9F%91%8B;First-Year+CS+Undergraduate;Aspiring+AI+%26+LLM+Engineer" alt="Typing SVG"/>
 </a>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aditiquasar&color=0ea5e9&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-</p>
 
 </div>
 
@@ -58,7 +54,9 @@ When I'm not writing Python or diving into computer science theory, you can find
 > [!NOTE]
 > **First-Year CS Student Portfolio:** Check out my pinned repositories below for my latest Python projects like my Spaced-Repetition Flashcards tool and pricing checkers!
 
+<div align="center">
+
 <!-- Waving Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,20,12,6&height=120&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9333EA&height=120&section=footer" alt="footer"/>
 
 </div>
