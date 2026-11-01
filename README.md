@@ -1,6 +1,6 @@
 <h2 align="center"> Hi, I'm Aditi! ˙ᵕ˙ </h2>
 
-☆ First-year Computer Science undergraduate<br>
+☆ Computer Science Undergraduate student<br>
 ☆ Aspiring AI & LLM Performance engineer<br>
 ☆ Currently learning Python through CS50P, plus Data Structures & Algorithms, Computer Architecture, MySQL and Linux<br>
 ☆ Into painting, sketching, music, stargazing and astronomy
